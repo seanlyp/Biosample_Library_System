@@ -1,5 +1,5 @@
 package com.bsb.model;
-
+//出库申请表
 public class DispatchAppDetail {
 	private String order_num;
 	private String sample_type;

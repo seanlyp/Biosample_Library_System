@@ -1,5 +1,5 @@
 package com.bsb.model;
-
+//申请汇总表
 public class DispatchAppSum {
 	private String order;		// 出库申请单号
 	private String applicant;	// 出库申请单位
