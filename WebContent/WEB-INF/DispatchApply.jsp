@@ -1,14 +1,18 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
+<<<<<<< Updated upstream
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%
     String path = request.getContextPath();
     String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
 %>
+=======
+>>>>>>> Stashed changes
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
+<<<<<<< Updated upstream
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
@@ -91,3 +95,11 @@
     <script src="<%=basePath%>static/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 </body>
 </html> 
+=======
+<title>生物样本库出库</title>
+</head>
+<body>
+abc
+</body>
+</html>
+>>>>>>> Stashed changes
