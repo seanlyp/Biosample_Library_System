@@ -67,12 +67,7 @@
 					</td>
 					</tr>
   			</table>
-		</div> 
-		<!-- 
-		<button style = "vertical-align:middle" type="button" class="btn btn-success btn-sm float-right" onclick="javascript:window.location.href='<%=basePath%>dispatch/apply_deliverdetail?type&snum&condition';">
- 				<span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;确定
-		</button>
-		-->
+		</div>
 		
 		<label>申请单位：	<input style="width: 200px;" type="text" name="applicant" class="form-control" placeholder = "出库申请单位"></label>
 		
